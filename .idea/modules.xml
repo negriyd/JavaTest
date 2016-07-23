@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaTest.iml" filepath="$PROJECT_DIR$/JavaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cachemap/cachemap.iml" filepath="$PROJECT_DIR$/cachemap/cachemap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/multithreading/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactor/refactor.iml" filepath="$PROJECT_DIR$/refactor/refactor.iml" />
+    </modules>
+  </component>
+</project>

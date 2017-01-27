@@ -12,6 +12,7 @@
         <module>cachemap</module>
         <module>refactor</module>
         <module>multithreading</module>
+        <module>hackerrank</module>
     </modules>
 
     <dependencies>

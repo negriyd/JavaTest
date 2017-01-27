@@ -23,12 +23,14 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="cachemap" />
+        <module name="hackerrank" />
         <module name="multithreading" />
         <module name="refactor" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="cachemap" target="1.8" />
+      <module name="hackerrank" target="1.8" />
       <module name="JavaTest" target="1.8" />
       <module name="multithreading" target="1.8" />
       <module name="refactor" target="1.8" />
